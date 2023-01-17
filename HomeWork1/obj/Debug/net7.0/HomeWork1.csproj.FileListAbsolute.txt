@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\bin\Debug\net7.0\HomeWork1.exe
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\bin\Debug\net7.0\HomeWork1.deps.json
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\bin\Debug\net7.0\HomeWork1.runtimeconfig.json
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\bin\Debug\net7.0\HomeWork1.dll
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\bin\Debug\net7.0\HomeWork1.pdb
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.dll
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\refint\HomeWork1.dll
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.pdb
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\HomeWork1.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminars_CSharp\HomeWork1\obj\Debug\net7.0\ref\HomeWork1.dll

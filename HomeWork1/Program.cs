@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Знакомство с языками программирования (семинары)
+// Урок 1. Знакомство с языком программирования С#
+// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
+// a = 5; b = 7 -> max = 7
+// a = 2 b = 10 -> max = 10
+// a = -9 b = -3 -> max = -3
+
+Console.Clear();
+
+Console.Write("Введите первое число: ");
+float x1 = float.Parse(Console.ReadLine());
+
+Console.Write("Введите второе число: ");
+float x2 = float.Parse(Console.ReadLine());
+
+Console.Write(x1 > x2 ? $" Первое число {x1} больше чем второе {x2}" : $" Первое число {x1} меньше чем второе {x2}");
